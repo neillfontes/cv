@@ -27,7 +27,7 @@
 
 ### N26 GmbH, Berlin, Germany
 
-Senior Software Engineer in Test
+Senior Software Engineer in Test  
 *March 2017 &ndash; Present*  
 
 - Project: Payments Group
@@ -38,7 +38,7 @@ Senior Software Engineer in Test
   
 ### Visual Meta GmbH, Berlin, Germany
 
-Software Engineer
+Software Engineer  
 *November 2014 &ndash;> March 2017*  
 
 - Project: Shopping Platform for 19 Countries
@@ -102,7 +102,7 @@ Software Developer
 
 ### SIVIS, Volta Redonda, Brazil
 
-Team Leader / Developer
+Team Leader / Developer  
 *Apr 2004 &ndash;> OCt 2012*  
 
 - Project: SIVIS Gym / Access
@@ -114,16 +114,16 @@ Team Leader / Developer
 ## Education
 
 **IBMEC Metrocamp, Campinas, Brazil**  
-Project Management MBA
-*Following PMI, PMBoK*
+Project Management MBA  
+*Following PMI, PMBoK*  
 *Finished in May 2013*
 
 **IBTA, Campinas, Brazil**  
-Technological Bachelor in Software Engineering – Analysis and Development
+Technological Bachelor in Software Engineering – Analysis and Development  
 *Finished in June 2011*
 
 **ETPC, Volta Redonda, Brazil**  
-High School & Technical School of Computer Systems
+High School & Technical School of Computer Systems  
 *Finished in January 2003*
 
 ## Languages
@@ -136,7 +136,7 @@ High School & Technical School of Computer Systems
 ## Miscellaneous
 
 **Training / Additional Courses**  
-Scrum, CoBIT, ITIL, SAP, Customer Satisfaction, Managing Risks, Managing Communication, Cultural Challenges. Personal Interaction and Relationships, Emotional Intelligence, Public Speaking, Volunteering Work.
+Scrum, CoBIT, ITIL, SAP, Customer Satisfaction, Managing Risks, Managing Communication, Cultural Challenges, How to Give Feedback, Personal Interaction and Relationships, Emotional Intelligence, Public Speaking, Volunteering Work.
 
 **Personal Traits**  
 Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient, Creative and Innovative.
