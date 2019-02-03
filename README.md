@@ -1,7 +1,7 @@
 [neill.com.br](https://neill.com.br) |
 [talkto@neill.com.br](mailto:talkto@neill.com.br)
 
-# Neill Lima &ndash; Sr. Software Engineer in Test
+# Neill Lima &ndash; Senior Software Engineer in Test
 
 - 14+ years of experience as a Software Engineer across industries
 - Full stack skill-set with focus on Testing Engineering
@@ -11,12 +11,12 @@
 
 ## Tools and Skills
 
-- Development Languages: Java 6 to 9, Python, Groovy, Javascript
-- Frameworks: Springboot, Citrus, Karate, Awaitility, Selenium
+- Development Languages: Java, Python, Groovy, Javascript
+- Frameworks: Spring, Springboot, Citrus, Karate, Awaitility, Selenium
 - Web: SOAP, REST, JSON
-- AWS: SQS, Kinesis, DynamoDB
-- Testing: Junit 4 and 5, TestNG,Selenium
-- Build and Deploy: Jenkins, Maven, Gradle, Docker
+- AWS: SQS, Kinesis, DynamoDB, Lambda
+- Testing: Junit 4 and 5, TestNG, Selenium
+- Build and Deploy Tools: Jenkins, Maven, Gradle, Docker
 - Methodologies: Scrum, Kanban, TDD, XP
 - Versioning: git, SVN
 
@@ -31,7 +31,7 @@ Sr. Software Engineer in Test
 
 ### Visual Meta GmbH, Berlin, Germany
 
-Software Engineer in Test  
+Software Engineer
 *November 2014 &ndash;> March 2017*  
 
 - Project: Shopping Platform for 19 Countries
@@ -60,48 +60,47 @@ Tier 4 Production Support Engineer
 - Environment: Avaya Telephony/IVR Systems, Tomcat, Linux, SOAP, Spring Framework, Hibernate, Axis
 - Scope: Worked on Avaya Global Product Support on Customizations for specific Customers and Contracts under NDA, Remote teams located in Brazil/Argentina/India/USA.
 - Tasks: Detection and RCA of issues in Production Environments. Installation of Patches and Software Updates, Bug-Fixes, Code Reviews. Customer-facing on-call support in several locations around the Globe. Resolution of Performance Issues and tuning critial IVR application. Server Profiling using VisualVM, jConsole, jHat, jStack, jMap, MAT) on Linux.
-- Results: Stabilized and Corrected Multiple Production Environment for different customers in legacy-code. Daily client-facing, improved Customer Satisfaction, increased Contract Renewal Rates and overall Department Profitability. On-site support in a critical case with VP visibility for one of the largest Automotive Industries.
+- Results: Stabilized and Corrected Multiple Production Environment for different customers in legacy-code. Daily client-facing, improved Customer Satisfaction, increased Contract Renewal Rates and overall Department Profitability. On-site support in a critical case with VP visibility for one of the largest Automotive Companies in Germany.
 
-**Acuity Systems LLC, Herndon, VA**  
-UI Developer &ndash; Contractor  
-*April 2016 &ndash; July 2016*  
-- Created wireframes (Balsamiq, InVision)
-- Designed mockups (Adobe Photoshop, Adobe Illustrator)
-- Developed API service container in Node.js connecting custom Web Portal to MicroStrategy Intelligence Server (Node.js)
-- Integrated Web Portal with GSA common components
+### Ci&T, Campinas, Brazil
 
-**Folio Investing, McLean, VA**  
-UI Developer  
-*April 2015 &ndash; April 2016*  
-- Developed private placements platform application (AngularJS, SASS, JavaScript, JSP, JSTL)
-- Developed an SVG signature pad for JSP templates and ported it as an Angular directive (AngularJS, SASS, JavaScript, JSP, JSTL)
-- Redesigned and implemented a new account opening path (SASS, JavaScript, JSP, JSTL)
-- Designed wireframes mockups (Adobe Illustrator, Adobe Photoshop)
-- Created numerous utility plugins (AngularJS, JavaScript, jQuery)
+Software Architect  
+*Feb 2011 &ndash;> May 2012*  
 
-**Millennial Media, Baltimore, MD**  
-Web Developer  
-*February 2014 &ndash; April 2015*  
-- Extended the capabilities of the existing CMS powering millennialmedia.com by creating modules and templates (CSS, JavaScript, MySQL)
-- Integrated Smartling as a multilingual translation solution for millennialmedia.com (CSS, JavaScript, PHP)
-- Developed IOS and Android mobile applications (AngularJS, JavaScript, SASS)
-- Developed event portal that enables users to create RSVP and information landing pages (AngularJS, JavaScript, MySQL, SASS, SilverStripe)
-- Developed movewithmobile.com as part of an ongoing marketing campaign (AngularJS, JavaScript, MySQL, SASS, SilverStripe)
+- Project: Johnson & Johnson, Vistakon, US/EMEA/ASPAC
+- Environment: J2EE, Spring MVC, Hibernate, Oracle DB, Drupal 6, MySQL, PHP, Webservices, Bazaar Voice API, Google Maps & Search, Scrum
+- Tasks: Software Architect working along with Product Owner and Scrum Master leading the integration and deliveries, mapping non-functional requisites, focal point for architectural discussions, Load Testing planning and execution, managing Infrastructure, design and solution of issues during the development Sprints. Elaboration of PoCs, SCM plans, deployment and monitoring of J&J websites in Europe, Asia and USA. Risk mapping and product tracking from backlog until final delivery. Supporting Ci&T ASPAC Team in Knowledge sharing and training.
+- Results: End to End delivery of new www.acuvue.com and www.acuvueprofessional.com websites and   several other websites for Acuvue brand in Asia market, including Japan and China.
 
-**BLDG-25, Durham, NC**  
-Web Developer  
-*August 2013 &ndash; February 2014*  
-- Developed a virtual simulation for a German real estate company (C#, JavaScript, Unity 3D)
-- Created UI visualizations for a consumed web service (AJAX, CSS, JavaScript)
-- Developed an e-learning web application for Blue Cross Blue Shield of Louisiana (CSS, PHP, JavaScript, MySQL, SilverStripe)
+### IBM, Hortolândia, Brazil
 
-**System Technologies Advanced Research, VA Beach, VA**  
-Software Engineer  
-*November 2012 &ndash; July 2013*  
-- Developed a virtual simulation running in a touch-enabled kiosk of the US Battleship Wisconsin for the Nauticus museum in Norfolk, VA (C#, JavaScript, Unity 3D)
-- Developed IOS and Android mobile applications (Action Script 3, Adobe Air, Adobe Flex, Starling)
-- Developed sound software for the Raspberry Pi which interfaced with IO hardware modules (C#, C++)
+Software Developer / Team Lead  
+*Jan 2008 &ndash;> Feb 2011*
 
+- Project: Express Scripts (Former Medco Health Solutions) - AOM Team
+- Environment: J2EE 1.4, Tomcat, VB6, DB2, MQ, WebServices, XML, jaxB, XStream,Scrum
+- Tasks: Team Leader and Developer in Brazil team working close to business analysts and QA, developing features and improvements in test phase to decrease Production defects. Platform migration from VB6 to Java.
+- Results: Implemented proactive error check in Production decreasing the down-time of applications in real time and defect correction. Worked on the migration and architectural redesign of new framework with several improvements, gaining deep knowledge in Message Queueing and XML Webservices running on secure environments.
+
+Software Developer
+*Oct 2006 &ndash;> Dec 2007*
+
+- Project: Express Scripts (Former Medco Health Solutions) - CRS Team
+- Environment: VB6, SQL Server 2000, DB2, COM+
+- Tasks: Developer working closely to Business Unit on features following SDLC/CMMI. Worked on database migration project from SQL Server to DB2.
+- Results: Designed automated routine of data export and import from SQL Server to DB2 as an interface making use of series of stored procedures developed to automate the process reducing time on the migration project.
+
+### SIVIS, Volta Redonda, Brazil
+
+Team Leader / Developer
+*Apr 2004 &ndash;> OCt 2012*  
+
+- Project: SIVIS Gym / Access
+- Environment: VB6, SQL Server, Crystal Reports, COM+, Third Party Components, IP and Serial Ticket Gates
+- Tasks: End to End coordination of the entire Project since its inception, database design, coding, integration, tests, end-user support, working from collection requirements from end-user and providing training and tracking of end-users.
+- Results: Service launched in the local market increasing the company profit with this new complete software suite, supporting more than 100 customers in Brazil southwest region (RJ/SP/MG) making a stable product in its new market back then.
+  
+  
 ## Education
 **ECPI University, VA Beach, VA**  
 B.S. in Computer and Information Sciences  
