@@ -91,7 +91,7 @@ Software Developer / Team Lead
 - Tasks: Team Leader and Developer in Brazil team working close to business analysts and QA, developing features and improvements in the test phase to decrease Production defects. Platform migration from VB6 to Java.
 - Results: Implemented a proactive error check in Production decreasing the MTBF and defect correction. Worked on the migration and architectural redesign of new framework with several improvements, gaining deep knowledge in Message Queueing and XML Webservices running on secure environments.
 
-Software Developer
+Software Developer  
 *Oct 2006 &ndash;> Dec 2007*
 
 - Project: Express Scripts (Former Medco Health Solutions) - CRS Team
