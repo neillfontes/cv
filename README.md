@@ -134,8 +134,8 @@ High School & Technical School of Computer Systems
 
 ## Miscellaneous
 
-**Training / Additional Courses**
+**Training / Additional Courses**  
 Scrum, CoBIT, ITIL, SAP, Customer Satisfaction, Managing Risks, Managing Communication, Cultural Challenges. Personal Interaction and Relationships, Emotional Intelligence, Public Speaking, Volunteering Work.
 
-**Personal Traits**
+**Personal Traits**  
 Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient, Creative and Innovative.
