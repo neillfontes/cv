@@ -96,13 +96,36 @@ Team Leader / Developer
 *Apr 2004 &ndash;> OCt 2012*  
 
 - Project: SIVIS Gym / Access
-- Environment: VB6, SQL Server, Crystal Reports, COM+, Third Party Components, IP and Serial Ticket Gates
+- Environment: VB6, SQL Server, Crystal Reports, COM+, Third Party Components, IP and Serial Ticket gates.
 - Tasks: End to End coordination of the entire Project since its inception, database design, coding, integration, tests, end-user support, working from collection requirements from end-user and providing training and tracking of end-users.
 - Results: Service launched in the local market increasing the company profit with this new complete software suite, supporting more than 100 customers in Brazil southwest region (RJ/SP/MG) making a stable product in its new market back then.
-  
-  
+
 ## Education
-**ECPI University, VA Beach, VA**  
-B.S. in Computer and Information Sciences  
-*Major in Simulation and Game Programming*  
-*July 2013*  
+
+**IBMEC Metrocamp, Campinas, Brazil**  
+Project Management MBA
+*Following PMI, PMBoK*
+*Finished in May 2013*
+
+**IBTA, Campinas, Brazil**  
+Technological Bachelor in Software Engineering – Analysis and Development
+*Finished in June 2011*
+
+**ETPC, Volta Redonda, Brazil**  
+High School & Technical School of Computer Systems
+*Finished in January 2003*
+
+## Languages
+
+- Portuguese: Native
+- English: Fluent
+- German: Working Proficiency (B1)
+- Spanish: Intermediate
+
+## Miscellaneous
+
+**Training / Additional Courses**
+Scrum, CoBIT, ITIL, SAP, Customer Satisfaction, Managing Risks, Managing Communication, Cultural Challenges. Personal Interaction and Relationships, Emotional Intelligence, Public Speaking, Volunteering Work.
+
+**Personal Traits**
+Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient, Creative and Innovative.
