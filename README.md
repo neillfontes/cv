@@ -8,7 +8,6 @@
 - Full stack skill-set with focus on Testing Engineering
 - End-to-end Software Development Expertise
 - Developing code to help companies to code better
-- ISFJ-T
 
 ## Tools and Skills
 
@@ -34,7 +33,7 @@ Senior Software Engineer in Test
 - Environment: AWS, Microservices, Java, Docker, Jenkins, Linux, Nomad, Terraform, Groovy, Javascript, Karate, Distributed Systems, Event-Driven Architecture, REST APIs.
 - Scope: Card Payments and Payment Schemers for the UK
 - Tasks: Work closely to Product Owner and Tech Leads overseeing Software Development and Testing. Development of features, tooling, infrastructure. Production Support and Troubleshooting. Ramp-up new Engineers, Interviewing, Mentoring during the probation period, coordination of activities across Teams and Groups. Elaboration of Technical Documents and Release Compliance Documentation for N26 Bank.
-- Results: Contributed to increase Test Awareness across Tech group by the means of developing  Backend API Testing frameworks and End to End tools to support Backend and Quality Engineers. Helped on hiring and mentoring of 4 other Software Engineers.
+- Results: Contributed to increase Test Awareness across Tech group by the means of developing  Backend API Testing frameworks and End to End Test tooling to support Backend and Quality Engineers. Helped hiring and mentoring 4 other Software Engineers. Enhanced Test API framework to work across multiple environments and AWS Regions for US/EU zones.
   
 ### Visual Meta GmbH, Berlin, Germany
 
@@ -103,7 +102,7 @@ Software Developer
 ### SIVIS, Volta Redonda, Brazil
 
 Team Leader / Developer  
-*Apr 2004 &ndash;> OCt 2012*  
+*Apr 2004 &ndash;> Oct 2006*  
 
 - Project: SIVIS Gym / Access
 - Environment: VB6, SQL Server, Crystal Reports, COM+, Third Party Components, IP and Serial Ticket gates.
@@ -115,7 +114,7 @@ Team Leader / Developer
 
 **IBMEC Metrocamp, Campinas, Brazil**  
 Project Management MBA  
-*Following PMI, PMBoK*  
+*Following PMBoK*  
 *Finished in May 2013*
 
 **IBTA, Campinas, Brazil**  
@@ -139,4 +138,4 @@ High School & Technical School of Computer Systems
 Scrum, CoBIT, ITIL, SAP, Customer Satisfaction, Managing Risks, Managing Communication, Cultural Challenges, How to Give Feedback, Personal Interaction and Relationships, Emotional Intelligence, Public Speaking, Volunteering Work.
 
 **Personal Traits**  
-Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient, Creative and Innovative.
+Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient and Innovative. Myers-Briggs: ISFJ-T
