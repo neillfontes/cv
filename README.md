@@ -2,20 +2,19 @@
 [neill.com.br](https://neill.com.br) |
 [talkto@neill.com.br](mailto:talkto@neill.com.br)
 
-# Neill Lima &ndash; Senior Software Engineer in Test
+# Neill Lima &ndash; Senior Software Engineer
 
 - 14+ years of experience as a Software Engineer across industries
-- Full stack skill-set with focus on Testing Engineering
+- Full stack skillset with focus on Backend Engineering
 - End-to-end Software Development Expertise
-- Developing code to help companies to code better
 
 ## Tools and Skills
 
 - Development Languages: Java, Python, Groovy, Javascript
-- Frameworks: Spring, Springboot, Citrus, Karate, Awaitility, Selenium
-- Web: REST, JSON, SOAP
+- Frameworks: Spring, Springboot
+- Web: REST, JSON
 - AWS: SQS, Kinesis, DynamoDB, Lambda, RDS
-- Testing: Junit 4 and 5, TestNG, Selenium
+- Testing: Junit 4 and 5, Mockito, Powermock
 - Build and Deploy Tools: Jenkins, Maven, Gradle, Docker
 - Methodologies: Scrum, Kanban, TDD, XP
 - Versioning: git, SVN
@@ -26,14 +25,14 @@
 
 ### N26 GmbH, Berlin, Germany
 
-Senior Software Engineer in Test  
+Senior Software Engineer  
 *March 2017 &ndash; Present*  
 
 - Project: Payments Group
 - Environment: AWS, Microservices, Java, Docker, Jenkins, Linux, Nomad, Terraform, Groovy, Javascript, Karate, Distributed Systems, Event-Driven Architecture, REST APIs.
-- Scope: Card Payments and Payment Schemers for the UK
-- Tasks: Work closely to Product Owner and Tech Leads overseeing Software Development and Testing. Development of features, tooling, infrastructure. Production Support and Troubleshooting. Ramp-up new Engineers, Interviewing, Mentoring during the probation period, coordination of activities across Teams and Groups. Elaboration of Technical Documents and Release Compliance Documentation for N26 Bank.
-- Results: Contributed to increase Test Awareness across Tech group by the means of developing  Backend API Testing frameworks and End to End Test tooling to support Backend and Quality Engineers. Helped hiring and mentoring 4 other Software Engineers. Enhanced Test API framework to work across multiple environments and AWS Regions for US/EU zones.
+- Scope: Card Payments and Payment Schemes for the UK
+- Tasks: Work closely to Product Owner and Tech Leads on Software Development and Testing. Development of features, tooling, infrastructure. Production Support and Troubleshooting. Ramp-up new Engineers, Interviews, Mentoring during the probation period, coordination of activities across Teams and Groups. Elaboration of Technical Documents and Release Compliance Documentation for N26 Bank.
+- Results: Helped hiring and mentoring 4 other Software Engineers. Enhanced existing Test API framework to work across multiple environments and AWS Regions for US/EU zones. Worked in new products since inception and discovery phase all the way through the Software Development Cycle until successful delivery in Production.
   
 ### Visual Meta GmbH, Berlin, Germany
 
@@ -42,9 +41,9 @@ Software Engineer
 
 - Project: Shopping Platform for 19 Countries
 - Environment: Java 8, Tomcat, Mockito, Powermock, TestNG, JUnit, Selenium, Linux, Jenkins, bash, httpd, Groovy, Hadoop, Puppet, MySQL, git, git-flow, Maven
-- Scope: Managed Testing and Release Cycles for Multiple Scrum Teams
-- Tasks: Development of Unit and Integration Tests, Automated Release and Deployment flows via Jenkins to 50+ Production Servers, Creation and Maintenance of Staging Environment of 20+ Servers, Elaboration of Test Cases and Test Suites for the B2C sites, Code Reviews and Pair Programming.
-- Results: Fully Automated Deployments, Increased Test Coverage and developed Test Awareness across teams, Development of Regression Tests based in Selenium using BrowserStack for Development and Release Branches, 0-Downtime Blue-Green Deployments for Multi-Nodes Applications and Services
+- Scope: Backend Development and Manage Release Cycles for Multiple Scrum Teams
+- Tasks: Development of features together with other engineers, Automated Release and Deployment flows via Jenkins to 50+ Production Servers, Creation and Maintenance of Staging Environment of 20+ Servers, Elaboration of Test Cases and Test Suites for the B2C sites, Code Reviews and Pair Programming.
+- Results: Fully Automated Deployments, Increased Test Coverage and developed Test Awareness across teams, 0-Downtime Blue-Green Deployments for Multi-Nodes Applications and Services, Migration from Monolithical applications into Microservices as well developing architectural changes for the platform making use of resiliency and fail-over. Reestructured build process to optimize for building and testing time from 60min to 15min to provide faster feedback loops to engineers.
 
 ### Daitan Group, Campinas, Brazil  
 
@@ -113,8 +112,8 @@ Team Leader / Developer
 ## Education
 
 **IBMEC Metrocamp, Campinas, Brazil**  
-Project Management MBA  
-*Following PMBoK*  
+MBA in Project Management  
+*Following PMBoK Methodology*  
 *Finished in May 2013*
 
 **IBTA, Campinas, Brazil**  
@@ -127,15 +126,17 @@ High School & Technical School of Computer Systems
 
 ## Languages
 
-- Portuguese: Native
 - English: Fluent
-- German: Working Proficiency (B1)
+- German: Working Proficiency (B1 Certified)
+- Portuguese: Native
 - Spanish: Intermediate
 
 ## Miscellaneous
 
 **Training / Additional Courses**  
-Scrum, CoBIT, ITIL, SAP, Customer Satisfaction, Managing Risks, Managing Communication, Cultural Challenges, How to Give Feedback, Personal Interaction and Relationships, Emotional Intelligence, Public Speaking, Volunteering Work.
+Scrum, Customer Satisfaction, Managing Risks, Managing Communication, Cultural Challenges, How to Give Feedback, Personal Interaction and Relationships, Emotional Intelligence, Public Speaking, Volunteering Work.
 
 **Personal Traits**  
-Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient and Innovative. Myers-Briggs: ISFJ-T
+Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient and Innovative.
+
+Myers-Briggs Type: ISFJ-T
