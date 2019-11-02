@@ -4,29 +4,40 @@
 
 # Neill Lima &ndash; Senior Software Engineer
 
-- 14+ years of experience as a Software Engineer across industries
-- Full stack skillset with focus on Backend Engineering
+- 15+ years of experience as a Software Engineer across industries
+- Focus on Backend Engineering
 - End-to-end Software Development Expertise
 
 ## Tools and Skills
 
-- Development Languages: Java, Python, Groovy, Javascript
-- Frameworks: Spring, Springboot
-- Web: REST, JSON
+- Development Languages: Java (8-11), Python, Groovy, Javascript
+- Frameworks: Springboot, Spring
+- Web: REST, JSON, SOAP
+- Databases: Relational (MySQL / Postgres) and NoSQL (MongoDB)
+- Cache: Redis, Ehcache
 - AWS: SQS, Kinesis, DynamoDB, Lambda, RDS
-- Testing: Junit 4 and 5, Mockito, Powermock
-- Build and Deploy Tools: Jenkins, Maven, Gradle, Docker
+- Testing: Junit 4 and 5, Mockito, Powermock, Karate, E2E
+- Build and Deploy Tools: Jenkins, Gitlab, Maven, Gradle, Docker
 - Methodologies: Scrum, Kanban, TDD, XP
-- Versioning: git, SVN
-
-***
+- Versioning: git
 
 ## Professional Experience
+
+### Sauce Labs GmbH, Berlin, Germany
+
+Senior Software Engineer  
+*March 2017 &ndash;> now()*  
+
+- Project: Real Device Cloud - Web
+- Environment: Java 8-11, Docker, AWS, Gitlab, Jenkins, Linux, Kubernetes, REST APIs, MongoDB, Grafana, InfluxDB.
+- Scope: Maintain and expand current Real Device Cloud (RDC) Product.
+- Tasks: Handling Production Incidents for RDC and further improvements to the services, Development of new features for the RDC Product, Supporting migration to the new Platform in US/EU Data Centers.
+- Results: Stabilized a Critical Product that handles Live and Automated Testing requests from Customers, Supported Recruiting and Hiring of 3 new Engineers, Improved Observability and Alerting of Critical Platform Components. 
 
 ### N26 GmbH, Berlin, Germany
 
 Senior Software Engineer  
-*March 2017 &ndash; Present*  
+*March 2017 &ndash;> June 2019*  
 
 - Project: Payments Group
 - Environment: AWS, Microservices, Java, Docker, Jenkins, Linux, Nomad, Terraform, Groovy, Javascript, Karate, Distributed Systems, Event-Driven Architecture, REST APIs.
@@ -100,7 +111,7 @@ Software Developer
 
 ### SIVIS, Volta Redonda, Brazil
 
-Team Leader / Developer  
+Team Lead / Developer  
 *Apr 2004 &ndash;> Oct 2006*  
 
 - Project: SIVIS Gym / Access
@@ -137,6 +148,6 @@ High School & Technical School of Computer Systems
 Scrum, Customer Satisfaction, Managing Risks, Managing Communication, Cultural Challenges, How to Give Feedback, Personal Interaction and Relationships, Emotional Intelligence, Public Speaking, Volunteering Work.
 
 **Personal Traits**  
-Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient and Innovative.
+Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient.
 
 Myers-Briggs Type: ISFJ-T
