@@ -1,8 +1,8 @@
+# Neill Lima &ndash; Senior Software Engineer
+
 [https://github.com/neillfontes/cv](https://github.com/neillfontes/cv) |
 [neill.com.br](https://neill.com.br) |
 [talkto@neill.com.br](mailto:talkto@neill.com.br)
-
-# Neill Lima &ndash; Senior Software Engineer
 
 - 15+ years of experience as a Software Engineer across industries
 - Focus on Backend Engineering
@@ -19,14 +19,13 @@
 - Testing: Junit 4 and 5, Mockito, Powermock, Karate, E2E
 - Build and Deploy Tools: Jenkins, Gitlab, Maven, Gradle, Docker
 - Methodologies: Scrum, Kanban, TDD, XP
-- Versioning: git
 
 ## Professional Experience
 
 ### Sauce Labs GmbH, Berlin, Germany
 
 Senior Software Engineer  
-*March 2017 &ndash;> now()*  
+*July 2019 &ndash;> now()*  
 
 - Project: Real Device Cloud - Web
 - Environment: Java 8-11, Docker, AWS, Gitlab, Jenkins, Linux, Kubernetes, REST APIs, MongoDB, Grafana, InfluxDB.
