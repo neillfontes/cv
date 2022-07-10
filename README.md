@@ -3,7 +3,7 @@
 [https://github.com/neillfontes/cv](https://github.com/neillfontes/cv) |
 [neillfontes@gmail.com](neillfontes@gmail.com)
 
-- 16+ years of experience as a Software Engineer across industries
+- 18+ years of experience as a Software Engineer across industries
 - Focus on Backend Engineering
 - End-to-end Software Development Expertise
 
