@@ -1,37 +1,47 @@
-# Neill Lima &ndash; Senior Software Engineer
+# Neill Lima &ndash; Lead Software Engineer
 
 [https://github.com/neillfontes/cv](https://github.com/neillfontes/cv) |
-[neill.com.br](https://neill.com.br) |
-[talkto@neill.com.br](mailto:talkto@neill.com.br)
+[neillfontes@gmail.com](neillfontes@gmail.com)
 
-- 15+ years of experience as a Software Engineer across industries
+- 16+ years of experience as a Software Engineer across industries
 - Focus on Backend Engineering
 - End-to-end Software Development Expertise
 
 ## Tools and Skills
 
-- Development Languages: Java (8-11), Python, Groovy, Javascript
+- Development Languages: Java (8-11), Javascript
 - Frameworks: Springboot, Spring
-- Web: REST, JSON, SOAP
+- Web: REST, JSON
 - Databases: Relational (MySQL / Postgres) and NoSQL (MongoDB)
-- Cache: Redis, Ehcache
-- AWS: SQS, Kinesis, DynamoDB, Lambda, RDS
+- Cache: Redis, Caffeine
+- AWS: SQS, Kinesis, DynamoDB, Lambda, RDS, Kafka
 - Testing: Junit 4 and 5, Mockito, Powermock, Karate, E2E
-- Build and Deploy Tools: Jenkins, Gitlab, Maven, Gradle, Docker
-- Methodologies: Scrum, Kanban, TDD, XP
+- Build and Deploy Tools: Jenkins, Gitlab, Maven, Docker
+- Methodologies: Scrum, Kanban, TDD
 
 ## Professional Experience
+
+### Klar GmbH, Berlin, Germany
+
+Lead Software Engineer  
+*January 2021 &ndash;> now()*  
+
+- Project: Klar Banking App
+- Environment: Java 11, Kafka, Docker, AWS, Jenkins, Github Actions, Kubernetes, REST, Karate, JS, npm, node, Jest
+- Scope: Java Backend, Internal tools, Mobile Testing and E2E Frameworks, Release process
+- Tasks: Establish a cross functional team between Berlin and Mexico. Hiring tasks (Create Interview Processes / Hiring Decision). Create internal tools for Engineering teams. Map testing and release process for Mobile platform. Work with Backend Engineers across multiple features in Payments / Credit / Identification Domains.
+- Results: Hired and Maintained 6 Engineers in different timezones. Delivered data generation tool for lower environments to decrease workload on Engineering (_e.g. Customer sign-up process in Staging took 5 mins and multiple steps to be executed, now down to 10 seconds_). Worked across multiple teams with other Leads and Engineers resolving issues and delivering features on the aforementioned domains. Helped develop / map and streamline the release process for the Klar Mobile app across platforms (iOS &amp; Android).
 
 ### Sauce Labs GmbH, Berlin, Germany
 
 Senior Software Engineer  
-*July 2019 &ndash;> now()*  
+*July 2019 &ndash;> December 2020*  
 
 - Project: Real Device Cloud - Web
 - Environment: Java 8-11, Docker, AWS, Gitlab, Jenkins, Linux, Kubernetes, REST APIs, MongoDB, Grafana, InfluxDB.
 - Scope: Maintain and expand current Real Device Cloud (RDC) Product.
 - Tasks: Handling Production Incidents for RDC and further improvements to the services, Development of new features for the RDC Product, Supporting migration to the new Platform in US/EU Data Centers.
-- Results: Stabilized a Critical Product that handles Live and Automated Testing requests from Customers, Supported Recruiting and Hiring of 3 new Engineers, Improved Observability and Alerting of Critical Platform Components. 
+- Results: Stabilized a Critical Product that handles Live and Automated Testing requests from Customers, Supported Recruiting and Hiring of 3 new Engineers, Improved Observability and Alerting of Critical Platform Components.
 
 ### N26 GmbH, Berlin, Germany
 
@@ -123,11 +133,11 @@ Team Lead / Developer
 
 **IBMEC Metrocamp, Campinas, Brazil**  
 MBA in Project Management  
-*Following PMBoK Methodology*  
+*Following PMBoK Framework*  
 *Finished in May 2013*
 
 **IBTA, Campinas, Brazil**  
-Technological Bachelor in Software Engineering – Analysis and Development  
+Technological Bachelor in Software Engineering
 *Finished in June 2011*
 
 **ETPC, Volta Redonda, Brazil**  
@@ -149,4 +159,4 @@ Scrum, Customer Satisfaction, Managing Risks, Managing Communication, Cultural C
 **Personal Traits**  
 Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient.
 
-Myers-Briggs Type: ISFJ-T
+Myers-Briggs Type: INTJ-T
