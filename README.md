@@ -9,22 +9,31 @@
 
 ## Tools and Skills
 
-- Development Languages: Java (8-11), Javascript
+- Development Languages: Java (11-21), Javascript
 - Frameworks: Springboot, Spring
 - Web: REST APIs
-- Databases: Relational (MySQL / Postgres) and NoSQL (MongoDB)
+- Databases: Relational (Postgres / MySQL) and NoSQL (MongoDB)
 - Cache: Redis, Caffeine
 - AWS: SQS, Kinesis, DynamoDB, Lambda, RDS, Kafka
 - Testing: Junit 4 and 5, Mockito, Powermock, Karate, Pact.io
-- Build and Deploy Tools: Jenkins, Gitlab, Maven, Docker
+- Build and Deploy Tools: Jenkins, Gitlab, Github Actions, Maven, Docker
 - Methodologies: Scrum, Kanban, TDD
 
 ## Professional Experience
 
 ### Klar GmbH, Berlin, Germany
 
+Senior Software Engineer II
+*June 2023 &ndash;> now()*  
+
+- Project: Klar Banking App 
+- Environment: Java 11-21, Kafka, Docker, AWS, Github Actions, Kubernetes, REST APIs, Karate
+- Scope: Java Backend Engineering / Credit Team 
+- Tasks: Development and Maintenance of the Loan Core System, responsible for scheduling and execution of fees and repayments at larger scale. Part of a remotely distributed team in LATAM and Europe. Troubleshooting customer-affecting Live issues. Working in a IC fashion part of a Backend/QA testing team.
+- Results: Delivered several new features in the Loan Core Repayment system such as a repayment aggregation that processes a single repayment from a customer instead of several unblocking the processing of subsequent messages to optimize for speed and faster response time for the customer. Another example is allowing Klar customers to choose a repayment strategy for their credit line and processing the repayment in other downstream services accordingly. 
+
 Lead Software Engineer  
-*January 2021 &ndash;> now()*  
+*January 2021 &ndash;> June 2023*  
 
 - Project: Klar Banking App
 - Environment: Java 11, Kafka, Docker, AWS, Jenkins, Github Actions, Kubernetes, REST, Karate, JS, npm, node, Jest
