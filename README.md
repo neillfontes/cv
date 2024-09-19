@@ -1,11 +1,8 @@
 # Neill Lima &ndash; Lead Software Engineer
 
-[https://github.com/neillfontes/cv](https://github.com/neillfontes/cv) |
-[neillfontes@gmail.com](neillfontes@gmail.com)
+[https://github.com/neillfontes/cv](https://github.com/neillfontes/cv) | [neillfontes@gmail.com](neillfontes@gmail.com) | Currently based in Berlin
 
-- 18+ years of experience as a Software Engineer across industries
-- Focus on Backend Engineering
-- End-to-end Software Development Expertise
+> Lead Software Engineer with 18+ years of experience specializing in Backend Engineering. Extensive expertise in end-to-end software development, team leadership, and delivering scalable solutions for global companies.
 
 ## Tools and Skills
 
@@ -28,9 +25,9 @@ Senior Software Engineer II
 
 - Project: Klar Banking App 
 - Environment: Java 11-21, Kafka, Docker, AWS, Github Actions, Kubernetes, REST APIs, Karate
-- Scope: Java Backend Engineering / Credit Team 
+- Scope: Java Backend Engineering / Credit Platform Team 
 - Tasks: Development and Maintenance of the Loan Core System, responsible for scheduling and executing fees and repayments at large scale. Part of a remotely distributed team in LATAM and Europe. Troubleshooting customer-affecting Live issues. I am currently working as an Individual Contributor part of a Backend/QA Engineering team.
-- Results: Delivered several new features in the Loan Core Repayment system such as a repayment aggregation that processes a single repayment from a customer instead of several unblocking the processing of subsequent messages to optimize for speed and faster response time for the customer. Another example is allowing Klar customers to choose a repayment strategy for their credit line and processing the repayment in other downstream services accordingly. 
+- Results: Delivered several new features in the Loan Core Repayment system such as a repayment aggregation that processes a single repayment from a customer instead of several, unblocking the processing of subsequent messages to optimize for speed and faster response time for the customer. Allowing Klar customers to choose a repayment strategy for their monthly credit line and processing the repayment in other downstream services accordingly. 
 
 Lead Software Engineer  
 *January 2021 &ndash;> June 2023*  
@@ -50,7 +47,7 @@ Senior Software Engineer
 - Environment: Java 8-11, Docker, AWS, Gitlab, Jenkins, Linux, Kubernetes, REST APIs, MongoDB, Grafana, InfluxDB.
 - Scope: Maintain and expand current Real Device Cloud (RDC) Product.
 - Tasks: Handling Production Incidents for RDC and further improvements to the services, Developing new features for the RDC Product, and Supporting migration to the new Platform in US/EU Data Centers.
-- Results: Stabilized a Critical Product that handles Live and Automated Testing requests from Customers, Supported Recruiting and Hiring of 3 new Engineers, and Improved Observability and Alerting of Critical Platform Components.
+- Results: Stabilized a Critical Product that handles Live and Automated Testing requests from Customers, Supported Recruiting and Hiring of 3 new Engineers, and Improved Observability and Alerting of Critical Platform Components, as well delivering new features and integrations with third parties.
 
 ### N26 GmbH, Berlin, Germany
 
@@ -138,7 +135,7 @@ Team Lead / Developer
 - Tasks: End to End coordination of the entire Project since its inception, database design, coding, integration, tests, end-user support, working from collection requirements from end-user and providing training and tracking of end-users.
 - Results: Service launched in the local market increasing the company profit with this new complete software suite, supporting more than 100 customers in Brazil southwest region (RJ/SP/MG) making a stable product in its new market back then.
 
-## Education
+## Formal Education
 
 **IBMEC Metrocamp, Campinas, Brazil**  
 MBA in Project Management  
@@ -160,6 +157,11 @@ High School & Technical School of Computer Systems
 - Portuguese: Native
 - Spanish: Intermediate
 
+## Citizenship
+
+- Brazilian
+- German
+
 ## Miscellaneous
 
 **Training / Additional Courses**  
@@ -167,5 +169,3 @@ Scrum, Customer Satisfaction, Managing Risks, Managing Communication, Cultural C
 
 **Personal Traits**  
 Result-Driven, Self-Learner, Team Player, Pragmatic, Resilient.
-
-Myers-Briggs Type: INTJ-T
