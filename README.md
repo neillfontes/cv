@@ -1,6 +1,6 @@
 # Neill Lima &ndash; Lead Software Engineer
 
-[https://github.com/neillfontes/cv](https://github.com/neillfontes/cv) | [neillfontes@gmail.com](neillfontes@gmail.com) | Currently based in Berlin
+[https://github.com/neillfontes/cv](https://github.com/neillfontes/cv) | [neillfontes@gmail.com](neillfontes@gmail.com) | Currently based in Berlin, Germany
 
 > Lead Software Engineer with 18+ years of experience specializing in Backend Engineering. Extensive expertise in end-to-end software development, team leadership, and delivering scalable solutions for global companies.
 
@@ -13,7 +13,7 @@
 - Cache: Redis, Caffeine
 - AWS: SQS, Kinesis, DynamoDB, Lambda, RDS, Kafka
 - Testing: Junit 4 and 5, Mockito, Powermock, Karate, Pact.io
-- Build and Deploy Tools: Jenkins, Gitlab, Github Actions, Maven, Docker
+- Build and Deploy Tools: Gitlab, Github Actions, Maven, Docker
 - Methodologies: Scrum, Kanban, TDD
 
 ## Professional Experience
@@ -24,10 +24,13 @@ Senior Software Engineer II
 *June 2023 &ndash;> now()*  
 
 - Project: Klar Banking App 
-- Environment: Java 11-21, Kafka, Docker, AWS, Github Actions, Kubernetes, REST APIs, Karate
-- Scope: Java Backend Engineering / Credit Platform Team 
-- Tasks: Development and Maintenance of the Loan Core System, responsible for scheduling and executing fees and repayments at large scale. Part of a remotely distributed team in LATAM and Europe. Troubleshooting customer-affecting Live issues. I am currently working as an Individual Contributor part of a Backend/QA Engineering team.
-- Results: Delivered several new features in the Loan Core Repayment system such as a repayment aggregation that processes a single repayment from a customer instead of several, unblocking the processing of subsequent messages to optimize for speed and faster response time for the customer. Allowing Klar customers to choose a repayment strategy for their monthly credit line and processing the repayment in other downstream services accordingly. 
+- Environment: Java 11-21, Kafka, Docker, AWS, Github Actions, Kubernetes, REST, Protobuf, Karate
+- Scope: Java Backend Engineering / Credit Team 
+- Tasks: Development and Maintenance of the Loan Core System, responsible for scheduling and executing fees and repayments at large scale. Part of a remotely distributed team in LATAM and Europe. Troubleshooting customer-affecting Live issues. I am currently working as an Individual Contributor part of a Backend Engineering team.
+- Results: Delivered several new features in the Loan Core Repayment system such as:
+    1. Repayment aggregation that processes a single repayment from a customer instead of several, unblocking the processing of subsequent messages to optimize for speed and faster response time for the customer.
+    2. Allowing Klar customers to choose a repayment strategy for their monthly credit line and processing the repayment in other downstream services accordingly.
+    3. Allowing existing loans to be renegotiated on new terms and managing their loan lifecycle (repayments, fee management, closure/write off).
 
 Lead Software Engineer  
 *January 2021 &ndash;> June 2023*  
@@ -35,7 +38,10 @@ Lead Software Engineer
 - Project: Klar Banking App
 - Environment: Java 11, Kafka, Docker, AWS, Jenkins, Github Actions, Kubernetes, REST, Karate, JS, npm, node, Jest
 - Scope: Java Backend, Internal tools, Mobile Testing and E2E Frameworks, Release process
-- Tasks: Establish a cross-functional team between Berlin and Mexico. Hiring tasks (Create Interview Processes / Hiring Decisions). Create internal tools for Engineering teams. Map testing and release process for Mobile platform. Work with Backend Engineers across multiple features in Payments / Credit / Identification Domains.
+- Tasks:
+  1. Establish a cross-functional team between Berlin and Mexico. Hiring and Team Management tasks (Create Interview Processes / Hiring Decisions / Team Management / Feedback / Exit).
+  2. Create internal tools for Engineering teams. Map testing and release process for Mobile platform.
+  3. Work with Backend Engineers across multiple features in Payments / Credit / Identification Domains.
 - Results: Hired and Maintained 6 Engineers in different timezones. Delivered data generation tool for lower environments to decrease the workload on Engineering (_e.g. the Customer sign-up process in Staging took 5 mins and multiple steps to be executed, now down to 10 seconds_). Worked across various teams with other Leads and Engineers resolving issues and delivering features on the aforementioned domains. Helped develop / map and streamline the release process for the Klar Mobile app across platforms (iOS &amp; Android).
 
 ### Sauce Labs GmbH, Berlin, Germany
@@ -138,29 +144,25 @@ Team Lead / Developer
 ## Formal Education
 
 **IBMEC Metrocamp, Campinas, Brazil**  
-MBA in Project Management  
-*Following PMBoK Framework*  
-*Finished in May 2013*
+MBA in Project Management  - PmBoK Framework
 
 **IBTA, Campinas, Brazil**  
 Technological Bachelor in Software Engineering
-*Finished in June 2011*
 
 **ETPC, Volta Redonda, Brazil**  
 High School & Technical School of Computer Systems  
-*Finished in January 2003*
 
 ## Languages
 
 - English: Fluent
-- German: Working Proficiency (B1 Certified)
+- German: Working Proficiency (B1)
 - Portuguese: Native
 - Spanish: Intermediate
 
 ## Citizenship
 
-- Brazilian
 - German
+- Brazil
 
 ## Miscellaneous
 
